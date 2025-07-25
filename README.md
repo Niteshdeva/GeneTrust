@@ -17,15 +17,7 @@ By combining AI-powered prediction (a fine-tuned DNABERT model accelerated by Gr
 - Guarantee data integrity and provide a transparent, auditable trail for genomic data and experimental outcomes.
 - Accelerate the overall research lifecycle through AI-driven insights and streamlined processes.
 
-## 🧠 Team & Approach
-**Team Name:** GeneX
-**Team Members:**
-- Ronit Raj (Full Stack / Integration Lead) – [GitHub](https://github.com/Ronit-Raj9) / [LinkedIn](https://www.linkedin.com/in/ronitrajai/) / [Portfolio](https://www.ronitraj.me/)  
-- Achyut Mukund (Blockchain / Smart Contracts) – [GitHub](https://github.com/cropsgg) / [LinkedIn](https://www.linkedin.com/in/achyut-mukund-845857289/)  / [Portfolio](https://www.mukundachyut.xyz/)
-- Vishwesh Pal Saini (ML Engineer) – [GitHub](https://github.com/VishPS) / [LinkedIn](https://www.linkedin.com/in/vishwesh-pal-saini-47766028a/)  
-- Madhav Mittal (IoT Engineer) – [GitHub](https://github.com/msquarex) / [LinkedIn](https://www.linkedin.com/in/madhav-mittal-4368b7313/)
-
-
+## 🧠  Approach
 **Our Approach:**  
 Recognizing the significant hurdles in modern gene editing—precise guide RNA design, maintaining optimal lab conditions, and ensuring data integrity—we set out to build GeneTrust. Our core strategy was to synergistically combine specialized AI, real-time IoT monitoring, and the transparency of blockchain.
 
